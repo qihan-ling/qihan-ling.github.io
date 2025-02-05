@@ -21,7 +21,7 @@ repository               : "qihan-ling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "image.png"
   name             : "Qi Han"
   pronouns         : "she/her/hers"  
   bio              : "1st Year PhD in Linguistics"
