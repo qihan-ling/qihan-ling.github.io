@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Access to CV
+Access
 ======
-Feel free to email me if you would like a copy by clicking the email icon on my main page.
+Feel free to send a request for my CV by clicking the email icon on the left bar!
