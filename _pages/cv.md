@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Access
-======
 Feel free to send a request for my CV by clicking the email icon on the left bar!
