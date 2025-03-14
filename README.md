@@ -1,3 +1,3 @@
 # Qi's Personal Website
-**Template From The [Academicpages Github](https://github.com/academicpages/academicpages.github.io)**
+**Template From the [Academicpages Github Repository](https://github.com/academicpages/academicpages.github.io)**
 
